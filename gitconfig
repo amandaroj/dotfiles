@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rojteramanda@gmail.com
+	name = amanda rojter
